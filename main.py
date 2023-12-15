@@ -17,7 +17,7 @@ headers = {
 }
 
 sheet_headers = {
-    "Authorization": "Basic aGFyc2hrczpCbGFibGEuMTIzNDU2"
+    "Authorization": "",
 }
 
 # food_query = input("Write down your food intake:")
